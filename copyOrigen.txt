@@ -1,0 +1,11 @@
+Hola Mundo! :D
+
+Este archivo se va a copiar del archivo copyOrigen.txt hace el archivo 
+copyDestino.txt
+
+
+S
+
+abcdefghijklmnopqrstuvwxyz
+
+0123456789101121314155166161717178
